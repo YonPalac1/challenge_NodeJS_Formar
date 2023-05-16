@@ -4,4 +4,10 @@
 ## Jonatan Palacios
 
 1) Escriba la función fizz_buzz()
-- Challenge finalizado
+- Ejercicio completado y subido con éxito al respositorio
+
+2) Escriba la función number_cardinality() 
+- Ejercicio completado y subido con éxito al respositorio
+
+3) Escriba la función number_cardinality() 
+- Ejercicio completado y subido con éxito al respositorio
